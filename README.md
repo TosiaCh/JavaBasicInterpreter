@@ -1,6 +1,7 @@
 A simple programmable calculator/interpreter written in Java. Program reads numbered lines of code and exeutes basic instructions such as variable assignments, arithmetic operations, input/output, conditional jumps and subroutine calls.
 
 Supports:
+
 -'LET' assigning values
 
 -'PRINT' - display text or variable values
